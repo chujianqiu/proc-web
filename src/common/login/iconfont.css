@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1632884100479') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 20px;
+  color: #DEF3F4;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-code:before {
+  content: "\e624";
+}
+
+.icon-login:before {
+  content: "\e67c";
+}
+
+.icon-password:before {
+  content: "\e8b2";
+}
+
+.icon-denglu1:before {
+  content: "\e611";
+}
+

@@ -1,0 +1,8 @@
+.require-menu {
+    padding-top: 50px;
+    width: 100px;
+}
+
+.publish-menu > ul {
+    float: left;
+}

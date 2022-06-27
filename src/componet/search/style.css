@@ -1,0 +1,26 @@
+@import '../../../node_modules/antd/dist/antd.css';
+
+.search {
+    margin-left: 10px;
+    padding-top: 5px;
+}
+
+.search-column {
+    width: 80%;
+}
+
+.search-button-group {
+    text-align: center;
+}
+
+.search-button {
+    margin-right: 5px;
+}
+
+.empty-content-short {
+    width: 750px;
+}
+
+.empty-content-long {
+    width: 1225px;
+}

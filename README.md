@@ -1,2 +1,19 @@
-# proc-web
-react项目前端模板
+# react web design for dots
+
+### 依赖注入
+```
+npm install/yarn install
+```
+
+### 项目启动
+```
+npm run start/yarn start
+```
+
+### 打包生成静态文件
+```
+npm run build/yarn build
+```
+
+### 疑问联系人
+jqchu@amarsoft.com

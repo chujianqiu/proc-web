@@ -1,0 +1,16 @@
+@import '../../../node_modules/antd/dist/antd.css';
+
+.selectRow{
+    background-color: rgb(182, 214, 250);
+}
+.ant-table-row:hover .ant-table-cell {
+    background-color: rgb(182, 214, 250) !important;
+}
+
+.hidden-column {
+    display: none;
+}
+
+.ant-form-vertical .ant-form-item-label {
+    padding: 5px 0px 5px !important;
+}
