@@ -16,4 +16,4 @@ npm run build/yarn build
 ```
 
 ### 疑问联系人
-jqchu@amarsoft.com
+chujianqiu816@163.com
